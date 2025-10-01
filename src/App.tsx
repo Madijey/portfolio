@@ -1,6 +1,5 @@
-import React from "react";
 import notesImg from "./assets/notes.png";
-import econImg from "./assets/ecom.png";
+import ecomImg from "./assets/ecom.png";
 import capstoneImg from "./assets/capstone.png";
 
 function App() {
@@ -60,7 +59,7 @@ function App() {
                             Product catalog with embeddings-based search and recommendations
                         </p>
                         <img
-                            src={econImg}
+                            src={ecomImg}
                             alt="E-commerce screenshot"
                             className="mt-4 rounded-lg border"
                         />
